@@ -1,0 +1,12 @@
+C:\Users\bahadir.bozkir\source\repos\BasketService\BasketService.DAL\bin\Debug\netcoreapp3.1\BasketService.DAL.deps.json
+C:\Users\bahadir.bozkir\source\repos\BasketService\BasketService.DAL\bin\Debug\netcoreapp3.1\BasketService.DAL.runtimeconfig.json
+C:\Users\bahadir.bozkir\source\repos\BasketService\BasketService.DAL\bin\Debug\netcoreapp3.1\BasketService.DAL.runtimeconfig.dev.json
+C:\Users\bahadir.bozkir\source\repos\BasketService\BasketService.DAL\bin\Debug\netcoreapp3.1\BasketService.DAL.dll
+C:\Users\bahadir.bozkir\source\repos\BasketService\BasketService.DAL\bin\Debug\netcoreapp3.1\BasketService.DAL.pdb
+C:\Users\bahadir.bozkir\source\repos\BasketService\BasketService.DAL\obj\Debug\netcoreapp3.1\BasketService.DAL.csprojAssemblyReference.cache
+C:\Users\bahadir.bozkir\source\repos\BasketService\BasketService.DAL\obj\Debug\netcoreapp3.1\BasketService.DAL.AssemblyInfoInputs.cache
+C:\Users\bahadir.bozkir\source\repos\BasketService\BasketService.DAL\obj\Debug\netcoreapp3.1\BasketService.DAL.AssemblyInfo.cs
+C:\Users\bahadir.bozkir\source\repos\BasketService\BasketService.DAL\obj\Debug\netcoreapp3.1\BasketService.DAL.csproj.CoreCompileInputs.cache
+C:\Users\bahadir.bozkir\source\repos\BasketService\BasketService.DAL\obj\Debug\netcoreapp3.1\BasketService.DAL.dll
+C:\Users\bahadir.bozkir\source\repos\BasketService\BasketService.DAL\obj\Debug\netcoreapp3.1\BasketService.DAL.pdb
+C:\Users\bahadir.bozkir\source\repos\BasketService\BasketService.DAL\obj\Debug\netcoreapp3.1\BasketService.DAL.genruntimeconfig.cache
